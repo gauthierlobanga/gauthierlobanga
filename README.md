@@ -1,130 +1,213 @@
-<!-- Bannière personnalisée -->
-![Bannière](https://via.placeholder.com/1200x300/0072C6/FFFFFF?text=Gauthier+Lobanga+-+Développeur+Full-Stack+%26+Entrepreneur+Tech)
+# 👋 Bonjour, je suis Gauthier Lobanga
 
-# 👋 Salut, moi c’est **Gauthier Lobanga**
+### 🚀 Développeur Full-Stack • Architecte Logiciel • Entrepreneur Tech • Passionné d’Innovation Numérique
 
-### 💻 Développeur Full-Stack | Architecte de solutions digitales | Basé en République Démocratique du Congo 🇨🇩
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gauthierlobanga&label=Visiteurs&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauthierlobanga)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gauthierlobanga)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauthier@example.com)
-[![Site Web](https://img.shields.io/badge/Site_Web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gauthierlobanga.me)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gauthier-lobanga-a70527295/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
----
+  <a href="https://www.facebook.com/gauthier.1105">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 
-## 🧑‍💻 À propos de moi
-
-Passionné par le code depuis [X années], je conçois et développe des applications web modernes, robustes et adaptées au marché africain.  
-Mon objectif : **mettre la technologie au service des entrepreneurs congolais** pour accélérer la transformation digitale locale.
-
-- 🔭 Actuellement, je développe **[Yetu](https://github.com/gauthierlobanga/yetu)**, une plateforme e-commerce multi‑tenant pour les PME congolaises.
-- 🌱 J’explore les architectures microservices, React Server Components et l’intelligence artificielle appliquée au e‑commerce.
-- 🤝 Je recherche des collaborations sur des projets open source à impact social (inclusion financière, logistique, santé).
-- 💬 Demandez-moi conseil sur : **Laravel, React, architecture multi‑tenant, design d’API**.
-- ⚡ Fun fact : Je suis aussi passionné de musique tradi‑moderne congolaise et de rumba 🎶.
+  <a href="mailto:gauthierlobanga914@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Projets phares
+## 🇨🇩 À propos de moi
 
-### 🛒 [Yetu](https://github.com/gauthierlobanga/yetu) – Plateforme commerciale multi‑tenant
-**Stack :** Laravel 11 · React · Inertia.js · TailwindCSS · MySQL · Docker  
-- Gestion centralisée des boutiques, produits, commandes et clients  
-- Authentification unique (SSO) pour les vendeurs  
-- Personnalisation du thème par boutique  
-- API REST pour application mobile
+Je suis un développeur Full-Stack basé en République Démocratique du Congo, spécialisé dans la conception et le développement de plateformes numériques modernes, évolutives et sécurisées.
 
-### 📦 [Autre projet] – Description brève
-*Stack :* [technos utilisées]  
-*Rôle :* [ce que tu as fait]  
-*Lien :* [GitHub / démo]
+Mon objectif est de contribuer à la transformation digitale des entreprises africaines à travers des solutions innovantes utilisant les technologies Web, Cloud, Mobile et Intelligence Artificielle.
 
-*(Ajoute les projets qui illustrent le mieux tes compétences)*
+J'interviens aussi bien sur l'analyse des besoins, la modélisation UML, l'architecture logicielle, le développement backend/frontend que sur le déploiement et l'optimisation des performances.
+
+### 🎯 Domaines d'expertise
+
+* Développement d'applications Web modernes
+* Conception SaaS Multi-Tenant
+* Architecture Microservices
+* Intelligence Artificielle appliquée aux entreprises
+* E-Commerce et Marketplaces
+* APIs REST et intégrations tierces
+* DevOps, Docker et Kubernetes
+* Modélisation UML et conception logicielle
 
 ---
 
-## 🧰 Stack technique
+## 🚀 Projet principal : Yetu
 
-| **Catégorie**      | **Technologies**                                                                                                                                                                                                                                                                                                                                                             |
-|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Backend            | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
-| Frontend           | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Inertia.js](https://img.shields.io/badge/Inertia.js-4B32C3?style=flat&logo=inertia&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) |
-| Styles / UI        | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white) |
-| Base de données    | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-| DevOps / Outils    | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FF2D20?style=flat&logo=laravel&logoColor=white) |
+### 🛒 Yetu – Plateforme E-Commerce Multi-Tenant
+
+Yetu est une plateforme e-commerce moderne conçue pour permettre aux PME, commerçants et entrepreneurs africains de créer et gérer leur propre boutique en ligne.
+
+### Fonctionnalités
+
+* Multi-boutiques (Multi-Tenant)
+* Gestion des produits
+* Gestion des commandes
+* Paiements en ligne
+* Gestion des stocks
+* Marketing digital
+* Intelligence artificielle pour l'assistance client
+* Tableau de bord analytique
+* API REST pour applications mobiles
+
+### Technologies
+
+* Laravel 12
+* React 19
+* TypeScript
+* Inertia.js
+* Tailwind CSS 4
+* Shadcn UI
+* PostgreSQL
+* Redis
+* Docker
+* Kubernetes
+
+---
+
+## 🧠 Compétences Techniques
+
+### Backend
+
+* PHP
+* Laravel
+* Node.js
+* Express.js
+* Java
+* Spring Boot
+
+### Frontend
+
+* React
+* TypeScript
+* JavaScript
+* Vue.js
+* Inertia.js
+* Livewire
+
+### Bases de données
+
+* PostgreSQL
+* MySQL
+* SQL Server
+* Firebase
+
+### DevOps & Cloud
+
+* Docker
+* Docker Compose
+* Kubernetes
+* GitHub Actions
+* Linux
+* Nginx
+
+### Architecture
+
+* Clean Architecture
+* Domain Driven Design (DDD)
+* CQRS
+* Multi-Tenant Architecture
+* Event Driven Architecture
+* Microservices
+
+---
+
+## 📚 Projets Académiques & Professionnels
+
+### 📖 Plateforme de gestion et détection de plagiat des TFC
+
+Développement d'une plateforme universitaire intégrant :
+
+* Archivage numérique
+* Recherche avancée
+* Détection de plagiat
+* Détection de contenu généré par IA
+* Génération automatique de rapports
+
+Technologies :
+
+Laravel • Python • Machine Learning • MySQL
+
+---
+
+### 🏫 Système de Gestion Universitaire
+
+Plateforme intégrée permettant :
+
+* Inscription académique
+* Gestion des frais
+* Gestion des cours
+* Délibérations
+* Évaluations en ligne
+* Gestion des mémoires et TFC
+
+Technologies :
+
+Laravel • JavaFX • SQL Server
+
+---
+
+### 💳 Plateforme de Gestion des Cotisations Sociales
+
+Application Web de gestion administrative et financière permettant :
+
+* Suivi des cotisations
+* Gestion des affiliés
+* Génération de rapports
+* Analyse des données
+
+Technologies :
+
+Laravel • Livewire • Filament
 
 ---
 
 ## 📊 Statistiques GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauthierlobanga&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthierlobanga&layout=compact&theme=radical&hide_border=true" />
-</div>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauthierlobanga&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthierlobanga&layout=compact&theme=tokyonight"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauthierlobanga&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gauthierlobanga&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🏆 Certifications & formations
+## 🎯 Objectifs
 
-- **[Certification Laravel]** – [organisme] (2024)
-- **[Formation React & TypeScript]** – [plateforme] (2023)
-- **[Introduction à l’architecture microservices]** – [Udemy/Coursera]
-- *(Ajoute ici les tiennes)*
-
----
-
-## 📝 Blog & écrits
-
-Je partage mes découvertes techniques et mes retours d’expérience sur :
-
-- [Mon blog personnel](https://gauthierlobanga.me/blog)
-- [Medium](https://medium.com/@gauthierlobanga)
-- [Dev.to](https://dev.to/gauthierlobanga)
-
-**Derniers articles :**
-- [Titre de l’article 1](lien)
-- [Titre de l’article 2](lien)
+* Construire des solutions numériques à fort impact pour l'Afrique
+* Contribuer à l'Open Source
+* Développer des produits SaaS innovants
+* Approfondir l'Intelligence Artificielle et le Cloud Computing
+* Accompagner la transformation digitale des entreprises africaines
 
 ---
 
-## 💼 Expérience professionnelle
+## 📫 Me contacter
 
-- **Développeur Full‑Stack Senior** chez *[Nom entreprise]* (2022 – Aujourd’hui)  
-  Conception d’une plateforme SaaS multi‑tenant avec Laravel et React.
+📧 Email : [gauthierlobanga914@gmail.com](mailto:gauthierlobanga914@gmail.com)
 
-- **Lead Développeur** chez *[Startup]* (2020 – 2022)  
-  Mise en place d’une API REST pour une application mobile de livraison.
+🔗 LinkedIn :
+https://www.linkedin.com/in/gauthier-lobanga-a70527295/
 
-*(Ajoute tes expériences réelles)*
-
----
-
-## 🎯 Objectifs 2025
-
-- Lancer la version bêta de **Yetu** et embarquer 50 premiers vendeurs
-- Contribuer à au moins 3 projets open source africains
-- Publier 10 articles techniques
-- Obtenir la certification **AWS Cloud Practitioner**
+📘 Facebook :
+https://www.facebook.com/gauthier.1105
 
 ---
 
-## 📫 Comment me joindre ?
+> "Transformer les idées en solutions numériques performantes et durables."
 
-- 📧 **Email :** gauthier@example.com
-- 🔗 **LinkedIn :** [gauthierlobanga](https://linkedin.com/in/gauthierlobanga)
-- 🐦 **Twitter :** [@gauthierlobanga](https://twitter.com/gauthierlobanga)
-- 🌐 **Portfolio :** [gauthierlobanga.me](https://gauthierlobanga.me)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gauthierlobanga&label=Profile%20views&color=0e75b6&style=flat" alt="gauthierlobanga" />
-</div>
-
-> *« Code is like humor. When you have to explain it, it’s bad. »* – Cory House  
-
-*Merci d’avoir visité mon profil ! N’hésite pas à me contacter pour toute collaboration.*
+⭐ N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration professionnelle ou open source.
