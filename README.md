@@ -35,8 +35,6 @@ Mon objectif : **mettre la technologie au service des entrepreneurs congolais** 
 - Personnalisation du thème par boutique  
 - API REST pour application mobile  
 
-*(Tu peux ajouter ici d’autres projets avec une brève description, la stack et un lien)*
-
 ---
 
 ## 🧰 Stack technique
@@ -69,7 +67,6 @@ Mon objectif : **mettre la technologie au service des entrepreneurs congolais** 
 - **[Certification Laravel]** – [organisme] (2024)  
 - **[Formation React & TypeScript]** – [plateforme] (2023)  
 - **[Introduction à l’architecture microservices]** – [Udemy / Coursera]  
-*(Complète avec tes propres certifications)*
 
 ---
 
@@ -85,8 +82,6 @@ Je partage mes découvertes techniques et mes retours d’expérience sur :
 - [Titre de l’article 1](lien)  
 - [Titre de l’article 2](lien)  
 
-*(Remplace par les liens réels ou supprime cette section si tu n’écris pas encore)*
-
 ---
 
 ## 💼 Expérience professionnelle
@@ -96,8 +91,6 @@ Je partage mes découvertes techniques et mes retours d’expérience sur :
 
 - **Lead Développeur** chez *[Startup]* (2020 – 2022)  
   Mise en place d’une API REST pour une application mobile de livraison.
-
-*(Remplace avec ton parcours réel)*
 
 ---
 
