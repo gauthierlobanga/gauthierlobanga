@@ -70,20 +70,6 @@ Mon objectif : **mettre la technologie au service des entrepreneurs congolais** 
 
 ---
 
-## 📝 Blog & écrits
-
-Je partage mes découvertes techniques et mes retours d’expérience sur :
-
-- [Mon blog personnel](https://gauthierlobanga.me/blog)  
-- [Medium](https://medium.com/@gauthierlobanga)  
-- [Dev.to](https://dev.to/gauthierlobanga)  
-
-**Derniers articles :**
-- [Titre de l’article 1](lien)  
-- [Titre de l’article 2](lien)  
-
----
-
 ## 💼 Expérience professionnelle
 
 - **Développeur Full‑Stack Senior** chez *[Nom entreprise]* (2022 – Aujourd’hui)  
